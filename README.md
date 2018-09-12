@@ -5,3 +5,5 @@ There were given methods for us to use and to understand how the binary search t
 them to help us progress with the lab. 
 We are also learning different ways to search binary search trees, recursively and iteratively, and print the nodes
 at a certain depth of the tree.
+
+Lab in Question: http://www.cs.utep.edu/ofuentes/cs2302/spring18/lab3.pdf
